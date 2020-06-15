@@ -34,8 +34,8 @@ N/A
 You *must* copy ```traaittPlatformd``` into the ```traaittplatformd-ha``` folder for the easy start process to occur.
 
 ```bash
-git clone https://github.com/traaittplatform/traaittplatformd-ha.git
-cd traaittplatformd-ha
+git clone https://github.com/TRRXITTE/traaittcash.monitor.git traaittplatformmonitor
+cd traaittplatformmonitor
 cp <traaittPlatformd> .
 sudo npm install & npm start
 ```
