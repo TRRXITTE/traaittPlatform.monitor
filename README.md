@@ -31,11 +31,11 @@ N/A
 
 ## Easy Start
 
-You *must* copy ```ETRXnetwork ( renamed traaittPlatformd)``` into the ```traaittplatform.monitor``` folder for the easy start process to occur.
+You *must* copy ```ETRXnetwork ( renamed traaittPlatformd )``` into the ```traaittplatform.monitor``` folder for the easy start process to occur.
 
 ```bash
-git clone https://github.com/TRRXITTE/traaittcash.monitor.git traaittplatformmonitor
-cd traaittplatform.monitor
+git clone https://github.com/TRRXITTE/traaittplatform.monitor.git traaittplatformmonitor
+cd traaittplatformmonitor
 cp <traaittPlatformd> .
 sudo npm install & npm start
 ```
